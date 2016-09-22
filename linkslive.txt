@@ -1,0 +1,3 @@
+http://aspnetcsrfshop.azurewebsites.net/shop.aspx
+
+http://aspnetcsrfmalicious.azurewebsites.net/HtmlPage1_VeryNiceCSRF_hack.html

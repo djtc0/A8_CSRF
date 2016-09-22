@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleASPNetCSRF", "simpleASPNetCSRF.csproj", "{834A17EC-FE0D-4B7B-AC01-9F01C4898DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaliciousWebSite", "..\MaliciousWebSite\MaliciousWebSite.csproj", "{A049AF86-2457-47D5-A36F-B2ECF0CE8184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834A17EC-FE0D-4B7B-AC01-9F01C4898DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834A17EC-FE0D-4B7B-AC01-9F01C4898DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834A17EC-FE0D-4B7B-AC01-9F01C4898DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834A17EC-FE0D-4B7B-AC01-9F01C4898DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A049AF86-2457-47D5-A36F-B2ECF0CE8184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A049AF86-2457-47D5-A36F-B2ECF0CE8184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A049AF86-2457-47D5-A36F-B2ECF0CE8184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A049AF86-2457-47D5-A36F-B2ECF0CE8184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

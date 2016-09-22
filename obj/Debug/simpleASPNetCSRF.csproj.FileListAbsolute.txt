@@ -1,0 +1,11 @@
+D:\Daniel\Training\SecurityDotNet\SoftwareSecuritySolution\SoftSecSol\simpleASPNetCSRF\bin\simpleASPNetCSRF.dll
+D:\Daniel\Training\SecurityDotNet\SoftwareSecuritySolution\SoftSecSol\simpleASPNetCSRF\bin\simpleASPNetCSRF.pdb
+D:\Daniel\Training\SecurityDotNet\SoftwareSecuritySolution\SoftSecSol\simpleASPNetCSRF\obj\Debug\simpleASPNetCSRF.dll
+D:\Daniel\Training\SecurityDotNet\SoftwareSecuritySolution\SoftSecSol\simpleASPNetCSRF\obj\Debug\simpleASPNetCSRF.pdb
+D:\Daniel\Training\SecurityDotNet\SoftwareSecuritySolution\SoftSecSol\simpleASPNetCSRF\obj\Debug\simpleASPNetCSRF.csprojResolveAssemblyReference.cache
+D:\Daniel\SECURITY\MADRID_2013\simpleASPNetCSRF\bin\simpleASPNetCSRF.dll
+D:\Daniel\SECURITY\MADRID_2013\simpleASPNetCSRF\bin\simpleASPNetCSRF.pdb
+D:\Daniel\SECURITY\MADRID_2013\simpleASPNetCSRF\obj\Debug\simpleASPNetCSRF.dll
+D:\Daniel\SECURITY\MADRID_2013\simpleASPNetCSRF\obj\Debug\simpleASPNetCSRF.pdb
+D:\Daniel\SECURITY\MADRID_2013\simpleASPNetCSRF\bin\simpleASPNetCSRF.dll.config
+D:\Daniel\SECURITY\MADRID_2013\simpleASPNetCSRF\obj\Debug\simpleASPNetCSRF.csprojResolveAssemblyReference.cache
